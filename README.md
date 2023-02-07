@@ -20,7 +20,7 @@ This table displays the tradable cryptocurrencies on the market--523 in total:
 
 <img src="https://github.com/Jay-ni13/Cryptocurrencies/blob/main/Images/current_trading_coins.png" width=80%>
 
-A 2-D scatter plot shows how the cryptocurrency clusters graph based on their total coin supply versus the total coins mined(i.e. created):
+A 2-D scatter plot shows how the cryptocurrency clusters graph based on their total coin supply versus the total coins mined (i.e. created):
 
 <img src="https://github.com/Jay-ni13/Cryptocurrencies/blob/main/Images/coin_scatter.png" width=75%>
 
